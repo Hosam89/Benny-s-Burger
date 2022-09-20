@@ -1,0 +1,8 @@
+// This is where you can import other stylesheets or write your scss code
+@import "../../node_modules/bootstrap/scss/bootstrap";
+@import "../../bootstrap-icons/font/bootstrap-icons.css";
+@import 'varibales.sass';
+@import 'layout.sass';
+@import 'reset.sass';
+@import 'typography.sass';
+@import "../fonts/_fonts.sass";
